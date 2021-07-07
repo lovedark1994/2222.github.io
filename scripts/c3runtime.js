@@ -3429,6 +3429,7 @@ timer)}this._UpdateTickState()}Tick(){const dt=this._runtime.GetDt(this._inst);f
 		{第幾句: 0},
 		{對方時間: 0},
 		{中毒: 0},
+		{是誰: 0},
 		{第幾關: 0},
 		{輸入時間: 0},
 		{有沒有毒: 0},
@@ -3445,7 +3446,6 @@ timer)}this._UpdateTickState()}Tick(){const dt=this._runtime.GetDt(this._inst);f
 		{分數監視: 0},
 		{開始或結束: 0},
 		{真: 0},
-		{是誰: 0},
 		{第二驗證階段: 0},
 		{第一階段總時間: 0}
 	];
